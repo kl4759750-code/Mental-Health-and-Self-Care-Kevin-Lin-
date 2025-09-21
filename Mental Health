@@ -8,3 +8,13 @@ color:navy;
 text-align: center;
 width: 90% 
 }
+header{
+position: relative; 
+}
+li{
+list-style-type: none; 
+display: inline-block; 
+} 
+main section { 
+display:flex; 
+} 
