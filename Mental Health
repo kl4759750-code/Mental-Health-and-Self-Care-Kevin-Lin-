@@ -1,15 +1,14 @@
+header{
+postition:relative; 
+}
 body{
-font-family:Arial, Sans-serif: 
-background-color: #f4f4f4:
-font-size: 20px; 
+font-size:20px
+margin:0;
 }
 h1{ 
 color:navy;
 text-align: center;
 width: 90% 
-}
-header{
-position: relative; 
 }
 li{
 list-style-type: none; 
